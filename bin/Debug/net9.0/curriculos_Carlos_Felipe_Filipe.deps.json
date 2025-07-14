@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "curriculos_Carlos_Felipe_Filipe/1.0.0": {
+        "runtime": {
+          "curriculos_Carlos_Felipe_Filipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curriculos_Carlos_Felipe_Filipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
