@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curriculos_Carlos_Felipe_Filipe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d758a4bce6413ccfc7fde2bfa132a0c4651b5818")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13e83c6afbee2068b8bdc23a68bc5105b0a65aab")]
 [assembly: System.Reflection.AssemblyProductAttribute("curriculos_Carlos_Felipe_Filipe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curriculos_Carlos_Felipe_Filipe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
